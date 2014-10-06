@@ -1,0 +1,22 @@
+{
+  "name": "ng-image-input",
+  "version": "0.0.1",
+  "description": "Simple element directive for including and uploading images in AngularJS forms.",
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "express": "^4.9.5",
+    "gulp": "^3.8.8",
+    "gulp-concat": "^2.4.1",
+    "gulp-livereload": "^2.1.1",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "karma": "^0.12.24",
+    "karma-chai": "^0.1.0",
+    "karma-chai-plugins": "^0.2.3",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-mocha": "^0.1.9",
+    "mocha": "^1.21.4"
+  }
+}
