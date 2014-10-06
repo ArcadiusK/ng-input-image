@@ -7,7 +7,7 @@
     <form name="form">
       <input type="text" ng-model="album.title" />
       <input type="text" ng-model="album.artist" />
-      <ng-image-input name="image" max-width="400" accepted-extensions="gif,png" ng-model="album.art"></ng-image-input>
+      <ng-image-input name="image" max-width="400" accepted-extensions="gif,jpg" ng-model="album.art"></ng-image-input>
     </form>
     <pre>{{ album | prettifyJSON }}</pre>
     <script type="text/javascript" src="angular/angular.js"></script>
